@@ -60,7 +60,7 @@ Tested on AMD Ryzen. Should work on any hardware LibreHardwareMonitor supports, 
 
 ## Why admin?
 
-LibreHardwareMonitor reads sensors through low-level Windows APIs (WMI, ring0 driver) that require elevated privileges. The app manifest already requests this automatically — Windows will prompt you on launch.
+LibreHardwareMonitor reads sensors through low-level Windows APIs (WMI, ring0 driver) that require elevated privileges. The app manifest already requests this automatically, Windows will prompt you on launch.
 
 ## License
 
