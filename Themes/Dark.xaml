@@ -1,0 +1,31 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBackground" Color="#090909" />
+    <SolidColorBrush x:Key="WindowForeground" Color="White" />
+    <SolidColorBrush x:Key="ChromeBtnForeground" Color="#555555" />
+    <SolidColorBrush x:Key="ChromeBtnHoverBackground" Color="#1e1e1e" />
+    <SolidColorBrush x:Key="ChromeBtnHoverForeground" Color="#ffffff" />
+    <SolidColorBrush x:Key="CloseBtnHoverForeground" Color="#ff4455" />
+    <SolidColorBrush x:Key="CardBaseBackground" Color="#111111" />
+    <SolidColorBrush x:Key="CardLabelForeground" Color="#3a3a3a" />
+    <SolidColorBrush x:Key="BigNumberForeground" Color="#ffffff" />
+    <SolidColorBrush x:Key="UnitLabelForeground" Color="#444444" />
+    <SolidColorBrush x:Key="DeviceNameForeground" Color="#2e2e2e" />
+    <SolidColorBrush x:Key="DividerBackground" Color="#191919" />
+    <SolidColorBrush x:Key="ProgressBarBackground" Color="#1a1a1a" />
+    <SolidColorBrush x:Key="ProgressBarForeground" Color="#ffffff" />
+    <SolidColorBrush x:Key="TitlePForeground" Color="#ffffff" />
+    <SolidColorBrush x:Key="TitleARCOREForeground" Color="#333333" />
+    <SolidColorBrush x:Key="SubtitleForeground" Color="#2a2a2a" />
+    <SolidColorBrush x:Key="LoadingOverlayBackground" Color="#090909" />
+    <SolidColorBrush x:Key="LoadingTextForeground" Color="#aaaaaa" />
+    <SolidColorBrush x:Key="SensorRowLabel" Color="#666666" />
+    <SolidColorBrush x:Key="SensorRowValue" Color="#999999" />
+    <SolidColorBrush x:Key="SensorRowProgressBarForeground" Color="#ffffff" />
+    <SolidColorBrush x:Key="TempRowLabel" Color="#666666" />
+    <SolidColorBrush x:Key="TempRowSegBarV1" Color="#ffffff" />
+    <SolidColorBrush x:Key="TempRowSegBarV2" Color="#888888" />
+    <SolidColorBrush x:Key="TempRowSegBarV3" Color="#444444" />
+    <SolidColorBrush x:Key="ArcBackground" Color="#1e1e1e" />
+    <SolidColorBrush x:Key="ArcValue" Color="#ffffff" />
+</ResourceDictionary>
