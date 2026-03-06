@@ -18,7 +18,7 @@ A hardware monitor for Windows built with WPF and LibreHardwareMonitor.
 ## Requirements
 
 - Windows 10 or 11 (x64)
-- Must be run as **Administrator** — LibreHardwareMonitor needs elevated access to read hardware sensors
+- Must be run as **Administrator** (LibreHardwareMonitor needs elevated access to read hardware sensors)
 
 ## Download
 
