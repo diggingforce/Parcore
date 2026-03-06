@@ -4,7 +4,7 @@
         Title="Parcore" Height="820" Width="1140"
         Background="{DynamicResource WindowBackground}" Foreground="{DynamicResource WindowForeground}"
         WindowStyle="None"
-        Icon="logo.ico"
+        Icon="pack://application:,,,/logo.ico"
         ResizeMode="CanResizeWithGrip"
         MinWidth="900" MinHeight="600">
 
