@@ -4,7 +4,7 @@ A hardware monitor for Windows built with WPF and LibreHardwareMonitor.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![.NET](https://img.shields.io/badge/.NET-10.0-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPLv3-green)
 
 ## What it shows
 
@@ -64,4 +64,6 @@ LibreHardwareMonitor reads sensors through low-level Windows APIs (WMI, ring0 dr
 
 ## License
 
-MIT
+**GPLv3**
+
+You are free to use this software however you like. If you decide to modify the code and distribute your own version, you **must** open-source your changes under this same GPLv3 license and credit the original project.
